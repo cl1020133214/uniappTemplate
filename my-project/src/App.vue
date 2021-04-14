@@ -7,7 +7,6 @@
       }).catch(res => {
         // 失败进行的操作
       })
-			console.log('App Launch')
 		},
 		onShow: function() {
 			console.log('App Show')
