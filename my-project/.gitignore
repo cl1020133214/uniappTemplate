@@ -2,7 +2,6 @@
 node_modules/
 unpackage/
 dist/
-yarn.lock
 
 # local env files
 .env.local
